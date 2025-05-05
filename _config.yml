@@ -22,12 +22,12 @@ repository               : "h-dadoun/h-dadoun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/hind_and_nala.jpeg"
   name             : "Hind Dadoun"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. in Computer Science. Specializing in computer vision, multi-modal learning, and machine learning pipelines, with hands-on experience deploying production-ready models in healthcare settings."
   location         : "San Francisco, California, US."
-  employer         : "echOpen"
+  #employer         : "ex echOpen"
   uri              : # URL
   email            : "hind.dadoun@gmail.com" 
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : hind-dadoun-89418191
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,8 +78,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &dadoun80202
 facebook:
   username               :
   app_id                 :
