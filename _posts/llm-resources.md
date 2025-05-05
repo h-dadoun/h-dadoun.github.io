@@ -1,7 +1,7 @@
 ---
 title: 'Some of the resources I have gathered on Large Language Models (LLMs)'
 date: 2025-04-01
-permalink: /posts/llm-resources/
+permalink: /year-archive/llm-resources/
 tags:
   - LLMs
 ---
