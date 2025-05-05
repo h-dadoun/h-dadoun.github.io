@@ -6,8 +6,8 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://hdadoun.github.io/files/files/dadoun-et-al-2022-deep-learning-for-the-detection-localization-and-characterization-of-focal-liver-lesions-on-abdominal.pdf'
-bibtexurl: 'http://hdadoun.github.io/files/dadoun2022deep.bib'
+paperurl: 'http://h-dadoun.github.io/files/files/dadoun-et-al-2022-deep-learning-for-the-detection-localization-and-characterization-of-focal-liver-lesions-on-abdominal.pdf'
+bibtexurl: 'http://h-dadoun.github.io/files/dadoun2022deep.bib'
 citation: 'Dadoun, Hind, et al. "Deep learning for the detection, localization, and characterization of focal liver lesions on abdominal US images." Radiology: Artificial Intelligence 4.3 (2022): e210110.'
 ---
 Purpose
