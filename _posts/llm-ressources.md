@@ -161,4 +161,4 @@ tags:
 
 ---
 
-Let me know if you'd like a downloadable `.md` version or a visual mind map! Would you like me to clean up the duplicate entries or tag the papers by difficulty level too?
+I put this together with the help of an AI assistant. I shared all the stuff I liked, and it helped organize everything into a Markdown file. I double-checked the links and descriptions, but there might still be a few mistakes.
