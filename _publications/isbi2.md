@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/isbi2
 excerpt: 'The paper explores the value of using  multimodal learning method as an initialization for anomaly detection in abdominal ultrasound images. The method efficiently learns visual concepts from radiological reports using natural language supervision and constrastive learning.'
-date: 2023
+date: 2023-01-01
 venue: 'IEEE'
 paperurl: 'http://h-dadoun.github.io/files/files/2102.02055v1.pdf'
 bibtexurl: 'http://h-dadoun.github.io/files/dadoun2023joint.bib'
