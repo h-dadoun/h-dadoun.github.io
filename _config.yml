@@ -22,7 +22,7 @@ repository               : "h-dadoun/h-dadoun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/hind_and_nala.jpeg"
+  avatar           : "images/hind_and_nala.png"
   name             : "Hind Dadoun"
   pronouns         : "she/her"  
   bio              : "Ph.D. in Computer Science. Specializing in computer vision, multi-modal learning, and machine learning pipelines, with hands-on experience deploying production-ready models in healthcare settings."
