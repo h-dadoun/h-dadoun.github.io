@@ -25,7 +25,7 @@ author:
   avatar           : "hind_and_nala.png"
   name             : "Hind Dadoun"
   pronouns         : "she/her"  
-  bio              : "Ph.D. in Computer Science. Specializing in computer vision, multi-modal learning, and machine learning pipelines, with hands-on experience deploying production-ready models in healthcare settings."
+  bio              : "Ph.D. in Computer Science. "
   location         : "San Francisco, California, US."
   #employer         : "ex echOpen"
   uri              : # URL
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &dadoun80202
+  username               : #&dadoun80202
 facebook:
   username               :
   app_id                 :
