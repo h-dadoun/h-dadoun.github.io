@@ -1,9 +1,10 @@
 ---
-title: 'Some of the resources I have gathered on Large Language Models (LLMs)'
-date: 2025-04-01
-permalink: /year-archive/llm-resources/
-tags:
-  - LLMs
+layout: archive
+permalink: /posts/llm-resources
+title: "Some of the resources I have gathered on Large Language Models (LLMs)"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
 ---
 
 # 📚 Learning Resources on Large Language Models (LLMs)
