@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Hind Dadoun—a researcher focused on applied AI. Based in the Bay Area, I’m currently exploring cutting-edge developments in large language models, with a particular interest in their applications in healthcare and other real-world domains.
+Hi, I'm Hind Dadoun. I'm an AI researcher based in the Bay Area, working on practical applications of machine learning with a special interest in healthcare.
 
-During my PhD at Inria's EPIONE team, I focused on developing AI methods for real-time analysis of abdominal ultrasound images. I built everything from scratch—working directly with hospitals to collect and de-identify medical data, designing self-supervised multi-modal models to extract meaningful information from both text and images to generate high-quality AI-based annotations and coordinating labeling efforts to properly evaluate the methods. 
+During my PhD at Inria, I worked with hospitals to develop AI tools for ultrasound image analysis. My research involved collecting medical data, building models that could learn from both images and text, and testing these approaches in real clinical settings.
 
-After completing my PhD, I joined echOpen, a startup dedicated to creating an affordable portable ultrasound device. As part of a small team, I contributed to various aspects of the project, from developing machine learning workflows to integrating AI features into mobile applications. You can learn more about my work at echOpen in this [video interview](https://www.echopen.com/ressources/videos/decouvrez-echopen-avec-hind-dadoun-phd-specialiste-en-intelligence-artificelle).
+After finishing my doctorate, I joined echOpen, a small startup creating affordable portable ultrasound devices. I wore many hats there—developing machine learning systems, helping integrate AI features into our mobile apps, and collaborating with our clinical partners. If you're curious about that work, there's a brief interview video where I talk about it.
+
+These days, I'm exploring how large language models can be applied to solve real problems, especially in healthcare.
 
 ---
 
