@@ -6,10 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Here’s your updated bio with the new role at Apple and focus on machine translation for localization:
-
----
-
 Hi, I'm Hind Dadoun. I'm a software engineer at Apple based in the Bay Area, working on machine learning applications for localization and machine translation.
 
 During my PhD at [Inria](https://inria.fr/fr) under the supervision of [Nicholas Ayache](https://scholar.google.com/citations?user=29XL16UAAAAJ&hl=fr) and [Hervé Delingette](https://scholar.google.fr/citations?user=7xnkHM0AAAAJ&hl=fr), I worked with hospitals to develop AI tools for ultrasound image analysis. My research involved collecting medical data, building models that could learn from both images and text, and testing these approaches in real clinical settings.
